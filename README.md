@@ -1,7 +1,7 @@
 # 🔗Hii there👋 
 ### Computer Science Student
 ### I'm Junior Python full stack developer
-### Checkout my work at ==My Github Repositories==
+### Checkout my work at My Github Repositories
 #### I code in
 ---
 ![This is the broken image](https://img.icons8.com/3d-fluency/94/python.png) ![](https://img.icons8.com/fluency/48/database--v1.png)
